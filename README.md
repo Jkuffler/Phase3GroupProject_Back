@@ -2,11 +2,11 @@ Web basic API with Sinatra and Active Record to support a React frontend
 
 Always make sure you're running these commands from the correct dir
 
-#Start Rake Server from this repo's main dir
+# Start Rake Server from this repo's main dir
 
 `bundle exec rake server`
 
-#Run in client/browser from https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend
+# Run in client/browser from https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend
 
 `npm start`
 
