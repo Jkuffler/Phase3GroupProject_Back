@@ -6,7 +6,7 @@ Always make sure you're running these commands from the correct dir
 
 `bundle exec rake server`
 
-# Run in client/browser from https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend
+# Run in client/browser from <a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend">Frontend</a>
 
 `npm start`
 
